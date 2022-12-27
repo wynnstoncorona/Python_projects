@@ -1,0 +1,4 @@
+nails,80,.10 
+wrench,10,2 
+saw,5,50 
+hammer,19,10 
